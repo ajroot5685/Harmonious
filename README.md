@@ -6,4 +6,6 @@ Team Harmonious in edge club (Unreal5)
 
 - 파일 다운로드 링크(완성본) : https://drive.google.com/file/d/1qgh0sctumzlnyvfl7emG9cNBHw4t93JC/view
 
+- 제작 과정 포스팅 : https://velog.io/@jg-konkuk?tag=unreal
+
 - 파일 소스코드는 별도 보관하겠습니다.
